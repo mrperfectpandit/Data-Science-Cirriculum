@@ -52,12 +52,12 @@ This learning path is intended for everyone who wants to learn data science and 
 ## Basic Machine Learning
 
 - ### Supervised Learning
-1.  [Linear Regression]
-2.  [Logistic Regression]
-3.  [Decision Tree]
-4.  [K-NN (K-Nearest Neighbors)]
-5.  [Naive Bayes]
-6.  [Support Vector Machine]
+1.  [Linear Regression](https://machinelearningmastery.com/linear-regression-for-machine-learning/)
+2.  [Logistic Regression](https://machinelearningmastery.com/logistic-regression-for-machine-learning/)
+3.  [Decision Tree](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
+4.  [K-NN (K-Nearest Neighbors)](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
+5.  [Naive Bayes](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html)
+6.  [Support Vector Machine](https://datascience.foundation/datatalk/basic-overview-of-svm-algorithm)
 7.  [Evalutaion matric]
 8.  [TOOLBOX: Scikit Learn](https://scikit-learn.org/stable/)
 9.  [TOOLBOX: statsmodels](https://www.statsmodels.org/stable/index.html)
