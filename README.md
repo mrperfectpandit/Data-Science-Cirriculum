@@ -21,15 +21,7 @@ This learning path is intended for everyone who wants to learn data science and 
         <li><a href="#supervised-learning">Supervised Learning</a></li>
         <li><a href="#unsupervised-learning">Unsupervised Learning</a></li>
       </ul>
-    </li>
-    <li>
-      <ul>
-        <li><a href="#supervised-learning-1">Supervised Learning</a></li>
-        <li><a href="#unsupervised-learning-1">Unsupervised Learning</a></li>
-      </ul>
-    </li>
-    
-    
+    </li>   
   </ol>
 </details>
 
@@ -57,18 +49,19 @@ This learning path is intended for everyone who wants to learn data science and 
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
-## Machine Learning
+## Basic Machine Learning
 
 - ### Supervised Learning
-1.  [Linear Regression](https://machinelearningmastery.com/linear-regression-for-machine-learning/)
-2.  [Logistic Regression](https://machinelearningmastery.com/logistic-regression-for-machine-learning/)
-3.  [Decision Tree](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
-4.  [K-NN (K-Nearest Neighbors)](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
-5.  [Naive Bayes](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html)
-6.  [Support Vector Machine](https://datascience.foundation/datatalk/basic-overview-of-svm-algorithm)
-7. [TOOLBOX: Scikit Learn](https://scikit-learn.org/stable/)
-8. [TOOLBOX: statsmodels](https://www.statsmodels.org/stable/index.html)
-9. [CASE STUDY: House Pricing](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+1.  [Linear Regression]
+2.  [Logistic Regression]
+3.  [Decision Tree]
+4.  [K-NN (K-Nearest Neighbors)]
+5.  [Naive Bayes]
+6.  [Support Vector Machine]
+7.  [Evalutaion matric]
+8.  [TOOLBOX: Scikit Learn](https://scikit-learn.org/stable/)
+9.  [TOOLBOX: statsmodels](https://www.statsmodels.org/stable/index.html)
+10. [CASE STUDY: House Pricing](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
@@ -78,27 +71,6 @@ This learning path is intended for everyone who wants to learn data science and 
 1. [K-Means Clustering](https://www.kdnuggets.com/2019/05/guide-k-means-clustering-algorithm.html)
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
-
-## Evaluation Metrics
-
-- ### Supervised Learning
-
-1. [Confusion Matrix](https://www.analyticsvidhya.com/blog/2020/04/confusion-matrix-machine-learning/)
-2. [Accuracy](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)
-3. [Precision](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_score.html#sklearn.metrics.precision_score)
-4. [Recall](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.recall_score.html#sklearn.metrics.recall_score)
-5. [F Score](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html#sklearn.metrics.f1_score)
-6. [ROC (Receiver Operating Characteristic)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html)
-7. [ROC AUC (Area Under Curve)](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html#sklearn.metrics.roc_auc_score)
-8. [MAE](https://www.statisticshowto.com/absolute-error/)
-9. [MSE](https://www.freecodecamp.org/news/machine-learning-mean-squared-error-regression-line-c7dde9a26b93/)
-
-
-<a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
-
-- ### Unsupervised Learning
-
-1. [Elbow Method](<https://en.wikipedia.org/wiki/Elbow_method_(clustering)>)
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
