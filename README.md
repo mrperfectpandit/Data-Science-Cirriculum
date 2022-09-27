@@ -23,7 +23,6 @@ This learning path is intended for everyone who wants to learn data science and 
       </ul>
     </li>
     <li>
-      <a href="#evaluation-metrics">Evaluation Metrics</a>
       <ul>
         <li><a href="#supervised-learning-1">Supervised Learning</a></li>
         <li><a href="#unsupervised-learning-1">Unsupervised Learning</a></li>
