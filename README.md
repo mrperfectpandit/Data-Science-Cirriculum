@@ -15,6 +15,8 @@ This learning path is intended for everyone who wants to learn data science and 
   <ol>
     <li><a href="#programming">Programming</a></li>
     <li><a href="#mathematics--statistics">Mathematics & Statistics</a></li>
+    
+    <li><a href="#Visualization Tool</a></li>
     <li>
       <a href="#Basic-machine-learning">Machine Learning</a>
       <ul>
@@ -30,6 +32,9 @@ This learning path is intended for everyone who wants to learn data science and 
 1. [Basic Python](https://www.learnpython.org/)
 3. [Intro to DBMS](https://www.omnisci.com/technical-glossary/dbms)
 4. [SQL Data Manipulation](https://mode.com/sql-tutorial/introduction-to-sql)
+
+## Visualization Tool
+1. [PowerBI]
 
 <a href="#table-of-contents">🠥🠥 Back to Table of Contents 🠥🠥</a>
 
