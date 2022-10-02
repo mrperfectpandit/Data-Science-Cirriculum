@@ -15,7 +15,7 @@ This learning path is intended for everyone who wants to learn data science and 
   <ol>
     <li><a href="#programming">Programming</a></li>
     <li><a href="#mathematics--statistics">Mathematics & Statistics</a></li>
-    <li><a href="#Visualization-Tool"</a></li>
+    <li><a href="#Visualization-Tool>Visualization Tool</a></li>
     <li>
       <a href="#Basic-machine-learning">Machine Learning</a>
       <ul>
